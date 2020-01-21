@@ -16,6 +16,7 @@ import { CameraNavigator } from "../features/UserCamera/navigator";
 import { ProfilesBlueprintNavigator } from '../features/ProfilesBlueprint/navigator';
 import { ProfilesBlueprintNavigator } from '../features/ProfilesBlueprint/navigator';
 import { ProfilesBlueprintNavigator } from '../features/ProfilesBlueprint/navigator';
+import { ProfilesBlueprintNavigator } from '../features/ProfilesBlueprint/navigator';
 import { AddItemBlueprintNavigator } from '../features/AddItemBlueprint/navigator';
 import { ProfilesBlueprintNavigator } from '../features/ProfilesBlueprint/navigator';
 import { ProfilesBlueprintNavigator } from '../features/ProfilesBlueprint/navigator';
@@ -60,6 +61,7 @@ const AppNavigator = {
     
 
     //@BlueprintNavigationInsertion
+ProfilesBlueprint: { screen: ProfilesBlueprintNavigator },
 ProfilesBlueprint: { screen: ProfilesBlueprintNavigator },
 ProfilesBlueprint: { screen: ProfilesBlueprintNavigator },
 ProfilesBlueprint: { screen: ProfilesBlueprintNavigator },
