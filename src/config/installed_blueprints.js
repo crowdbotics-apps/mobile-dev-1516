@@ -50,6 +50,7 @@ export const installed_blueprints = [
 
   //@BlueprintInsertion
 { name: 'ProfilesBlueprint', human_name: 'Profiles', access_route: 'ProfilesBlueprint'},
+{ name: 'ProfilesBlueprint', human_name: 'Profiles', access_route: 'ProfilesBlueprint'},
 { name: 'AddItemBlueprint', human_name: 'Add Item', access_route: 'AddItemBlueprint'},
 { name: 'ProfilesBlueprint', human_name: 'Profiles', access_route: 'ProfilesBlueprint'},
 { name: 'ProfilesBlueprint', human_name: 'Profiles', access_route: 'ProfilesBlueprint'},
